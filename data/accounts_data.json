@@ -1,0 +1,17 @@
+{
+  "operator": {
+    "account_type": "Operator",
+    "username": "operator",
+    "password": "operator_demo_2026"
+  },
+  "shift_lead": {
+    "account_type": "Operator",
+    "username": "shift_lead",
+    "password": "shift_demo_2026"
+  },
+  "admin": {
+    "account_type": "Admin",
+    "username": "admin",
+    "password": "admin_demo_2026"
+  }
+}

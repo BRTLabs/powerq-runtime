@@ -1,0 +1,42 @@
+[
+  {
+    "id": "queue-0",
+    "batch_name": "CELL-A400",
+    "status": "Done"
+  },
+  {
+    "id": "queue-1",
+    "batch_name": "CELL-A600-HP",
+    "status": "Done"
+  },
+  {
+    "id": "queue-2",
+    "batch_name": "CELL-A440-STD",
+    "status": "Conditioning"
+  },
+  {
+    "id": "queue-3",
+    "batch_name": "CELL-A440-STD",
+    "status": "Final Conditioning"
+  },
+  {
+    "id": "queue-5",
+    "batch_name": "CELL-270T",
+    "status": "Final Processing"
+  },
+  {
+    "id": "queue-7",
+    "batch_name": "CELL-A440-STD",
+    "status": "Waiting"
+  },
+  {
+    "id": "queue-8",
+    "batch_name": "CELL-A440-STD",
+    "status": "Waiting"
+  },
+  {
+    "id": "queue-9",
+    "batch_name": "CELL-A600-HP",
+    "status": "Waiting"
+  }
+]

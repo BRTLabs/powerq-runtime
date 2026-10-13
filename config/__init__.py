@@ -1,0 +1,1 @@
+"""Administrator-editable application configuration."""
